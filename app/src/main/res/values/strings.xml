@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MY-Resume</string>
+    <string name="shu">SHU</string>
+    <string name="vam">VAM</string>
+    <string name="touch_image">Touch Image</string>
+    <string name="chou">Chou</string>
+    <string name="dhary">dhary</string>
+    <string name="todo">TODO</string>
+    <string name="personal_details">PERSONAL DETAILS</string>
+    <string name="father_name">FATHER NAME-</string>
+    <string name="shuvam_choudhary">Shuvam Choudhary</string>
+    <string name="ram_gopal">Ram Gopal</string>
+    <string name="name">NAME-</string>
+    <string name="meena_singh">Meena Singh</string>
+    <string name="d_o_b">D.O.B</string>
+    <string name="email_id">Email id-</string>
+    <string name="contact_no">CONTACT NO-</string>
+    <string name="mother_name">MOTHER NAME-</string>
+    <string name="_22_02_1995">22-02-1995</string>
+    <string name="_7020437641">7020437641</string>
+    <string name="chaudhary_shubham94_hotmail_com">chaudhary.shubham94@hotmail.com</string>
+</resources>
